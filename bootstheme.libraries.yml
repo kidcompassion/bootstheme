@@ -1,0 +1,6 @@
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      vendor/twbs/bootstrap/dist/css/bootstrap.css: {}
+      css/styles.css: {}

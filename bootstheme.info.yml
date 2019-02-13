@@ -1,0 +1,15 @@
+name: Boots Theme
+type: theme
+Description: "Minimal D8 theme based on Bootstrap 4"
+package: custom
+core: 8.x
+# by adding global-styling and global-scripts here, the css/js files in the library become 
+# available to every page presented by the theme
+libraries:
+- bootstheme/global-styling
+
+regions:
+  header: Header
+  content: Main Content
+  sidebar: Sidebar
+  footer: Footer
