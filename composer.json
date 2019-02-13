@@ -1,0 +1,15 @@
+{
+    "name": "kidcompassion/bootstheme",
+    "description": "Minimal D8 theme based on Bootstrap 4",
+    "type": "theme",
+    "require": {
+        "twbs/bootstrap": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "kidcompassion",
+            "email": "sallypoulsen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
